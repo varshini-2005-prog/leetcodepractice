@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Divide and Conquer
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
