@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -47,13 +48,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
