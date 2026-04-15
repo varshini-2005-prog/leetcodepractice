@@ -76,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1925-count-square-sum-triples) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
