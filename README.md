@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0152-maximum-product-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
