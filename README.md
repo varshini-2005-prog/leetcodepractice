@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2463-minimum-total-distance-traveled](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2463-minimum-total-distance-traveled) |
+| [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
+| [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
