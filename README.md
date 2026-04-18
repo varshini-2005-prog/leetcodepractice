@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
+| [0090-subsets-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0228-summary-ranges](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0228-summary-ranges) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0090-subsets-ii) |
 | [0338-counting-bits](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0090-subsets-ii) |
 ## Greedy
 |  |
 | ------- |
