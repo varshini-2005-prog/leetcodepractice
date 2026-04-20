@@ -50,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0206-reverse-linked-list) |
 ## Binary Search
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0031-next-permutation) |
+| [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
