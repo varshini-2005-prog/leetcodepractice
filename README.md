@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2463-minimum-total-distance-traveled) |
 | [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -119,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0055-jump-game) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
