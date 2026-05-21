@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
 | [2463-minimum-total-distance-traveled](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2463-minimum-total-distance-traveled) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
+| [0392-is-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0031-next-permutation) |
 | [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
+| [0392-is-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
