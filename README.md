@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0338-counting-bits) |
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0070-climbing-stairs) |
 | [1925-count-square-sum-triples](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1925-count-square-sum-triples) |
 ## Enumeration
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
