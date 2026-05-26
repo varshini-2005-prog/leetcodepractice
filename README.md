@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0228-summary-ranges) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0746-min-cost-climbing-stairs) |
+| [0904-fruit-into-baskets](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
