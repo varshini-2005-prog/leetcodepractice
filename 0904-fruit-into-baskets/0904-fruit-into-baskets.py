@@ -1,24 +1,24 @@
-from collections import Counter
-
 class Solution:
     def totalFruit(self, fruits):
-        left = 0
+
         count = Counter()
-        max_len = 0
 
-        for i in range(len(fruits)):
+        l = 0
+        m = 0
 
-            count[fruits[i]] += 1
+        for r in range(len(fruits)):
+
+            count[fruits[r]] += 1
 
             while len(count) > 2:
 
-                count[fruits[left]] -= 1
+                count[fruits[l]] -= 1
 
-                if count[fruits[left]] == 0:
-                    del count[fruits[left]]
+                if count[fruits[l]] == 0:
+                    del count[fruits[l]]
 
-                left += 1
+                l += 1
 
-            max_len = max(max_len, i - left + 1)
+            m = max(m, r - l + 1)
 
-        return max_len
+        return m
