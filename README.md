@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1668-maximum-repeating-substring) |
 | [2463-minimum-total-distance-traveled](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2463-minimum-total-distance-traveled) |
 ## Queue
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0944-delete-columns-to-make-sorted) |
+| [1668-maximum-repeating-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1668-maximum-repeating-substring) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sliding Window
 |  |
@@ -220,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1025-divisor-game) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
