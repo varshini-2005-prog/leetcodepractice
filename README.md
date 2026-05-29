@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
 | [2463-minimum-total-distance-traveled](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2463-minimum-total-distance-traveled) |
 ## Queue
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1925-count-square-sum-triples) |
 ## Enumeration
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
