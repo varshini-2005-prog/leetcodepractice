@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0206-reverse-linked-list) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
 | [0392-is-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
