@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0234-palindrome-linked-list) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
