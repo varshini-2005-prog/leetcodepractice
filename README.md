@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0228-summary-ranges) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -249,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
