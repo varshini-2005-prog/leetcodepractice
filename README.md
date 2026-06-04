@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0076-minimum-window-substring) |
+| [0227-basic-calculator-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 | [0392-is-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
@@ -156,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0143-reorder-list) |
+| [0227-basic-calculator-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0070-climbing-stairs) |
+| [0227-basic-calculator-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 | [0509-fibonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
