@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0705-design-hashset) |
 | [0746-min-cost-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0944-delete-columns-to-make-sorted) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0875-koko-eating-bananas) |
 | [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
 ## Bit Manipulation
 |  |
