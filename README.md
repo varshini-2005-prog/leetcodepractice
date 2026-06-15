@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
