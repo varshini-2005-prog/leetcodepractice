@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0875-koko-eating-bananas) |
 | [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0227-basic-calculator-ii) |
+| [0367-valid-perfect-square](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
