@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1668-maximum-repeating-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1668-maximum-repeating-substring) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1925-count-square-sum-triples) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
 | ------- |
