@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1480-running-sum-of-1d-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1920-build-array-from-permutation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1920-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2463-minimum-total-distance-traveled) |
 | [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
@@ -289,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
