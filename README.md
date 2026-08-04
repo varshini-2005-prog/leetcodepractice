@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0383-ransom-note](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0227-basic-calculator-ii) |
+| [0383-ransom-note](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 ## Combinatorics
 |  |
