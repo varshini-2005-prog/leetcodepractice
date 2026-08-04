@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2463-minimum-total-distance-traveled) |
 | [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
+| [3731-find-missing-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0705-design-hashset) |
 | [0904-fruit-into-baskets](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0904-fruit-into-baskets) |
 | [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
+| [3731-find-missing-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [2463-minimum-total-distance-traveled](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2463-minimum-total-distance-traveled) |
+| [3731-find-missing-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
