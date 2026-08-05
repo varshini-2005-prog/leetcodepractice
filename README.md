@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0090-subsets-ii) |
 | [0119-pascals-triangle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0160-intersection-of-two-linked-lists) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0128-longest-consecutive-sequence) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Memoization
 |  |
