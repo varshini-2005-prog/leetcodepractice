@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0647-palindromic-substrings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1668-maximum-repeating-substring](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1668-maximum-repeating-substring) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0055-jump-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Heap (Priority Queue)
 |  |
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1920-build-array-from-permutation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
