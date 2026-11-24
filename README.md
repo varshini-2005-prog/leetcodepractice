@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1920-build-array-from-permutation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/2463-minimum-total-distance-traveled) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3488-closest-equal-element-queries](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3488-closest-equal-element-queries) |
 | [3731-find-missing-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0904-fruit-into-baskets) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -197,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1925-count-square-sum-triples](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1925-count-square-sum-triples) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3870-count-commas-in-range](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1925-count-square-sum-triples) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Two Pointers
 |  |
@@ -313,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
