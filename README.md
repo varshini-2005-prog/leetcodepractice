@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0228-summary-ranges) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0704-binary-search](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0704-binary-search) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0367-valid-perfect-square) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/varshini-2005-prog/leetcodepractice/tree/master/1137-n-th-tribonacci-number) |
